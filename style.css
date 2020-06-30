@@ -17,7 +17,7 @@
   background-color: black;
   position: relative;
   left: 400px;
-  animation: block 2s infinite;
+  animation: block 3s infinite;
 }
 
 @keyframes block {
@@ -36,7 +36,7 @@
   position: relative;
   left: 400px;
   top: -500px;
-  animation: block 2s infinite;
+  animation: block 3s infinite;
 }
 
 #character {
